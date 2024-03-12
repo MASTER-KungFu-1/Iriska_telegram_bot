@@ -13,10 +13,10 @@
 
 
 
-- Генерация примеров в определенное время или после определенного количества сообщений в беседе
-
 - Тонкая настройка бота под каждую беседу
 
-- Глобальный топ "решателей примеров"
+  ![image](https://github.com/MASTER-KungFu-1/Iriska_telegram_bot/assets/91539990/8b667c17-2df7-44b3-86db-e8ac1ad0f133)
 
 - Локальный топ
+
+  ![image](https://github.com/MASTER-KungFu-1/Iriska_telegram_bot/assets/91539990/1691ba33-c288-4bfd-b229-f8eddb1ac067)
