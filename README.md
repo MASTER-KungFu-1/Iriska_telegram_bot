@@ -2,6 +2,7 @@
 ### Функции:
 
 - Создание математических примеров
+
   ![image](https://github.com/MASTER-KungFu-1/Iriska_telegram_bot/assets/91539990/ed8fb868-dfc7-46c3-b686-fb41729dd1e0)
 
   - Настройка сложности математических примеров
