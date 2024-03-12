@@ -4,6 +4,8 @@
 - Создание математических примеров
 
   ![image](https://github.com/MASTER-KungFu-1/Iriska_telegram_bot/assets/91539990/ed8fb868-dfc7-46c3-b686-fb41729dd1e0)
+  ![image](https://github.com/MASTER-KungFu-1/Iriska_telegram_bot/assets/91539990/8e501d1a-22c4-4c98-b5aa-467ba41551f1)
+
 
   - Настройка сложности математических примеров
 
